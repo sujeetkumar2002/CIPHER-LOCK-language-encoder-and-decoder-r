@@ -1,1 +1,4 @@
+# CIPHER-LOCK-language-encoder-and-decoder-
+The main objective of an encrypter is to transform a message or data into a coded form that is difficult for unauthorized parties to understand or access. This is achieved through the use of encryption algorithms, which scramble the original message or data using a secret key or password. The resulting encrypted data can only be decrypted and understood by someone who has the key or password to reverse the encryption process.
 
+The main objective of a decrypter is to reverse the encryption process and convert the encrypted data back into its original form. This is done by using the same secret key or password that was used to encrypt the data in the first place. The decrypted data can then be read or processed by authorized parties who have the necessary credentials to access the original message or data.
